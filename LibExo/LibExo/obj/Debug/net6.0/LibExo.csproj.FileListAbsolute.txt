@@ -1,0 +1,17 @@
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\bin\Debug\net6.0\LibExo.exe
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\bin\Debug\net6.0\LibExo.deps.json
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\bin\Debug\net6.0\LibExo.runtimeconfig.json
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\bin\Debug\net6.0\LibExo.dll
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\bin\Debug\net6.0\LibExo.pdb
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\obj\Debug\net6.0\LibExo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\obj\Debug\net6.0\LibExo.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\obj\Debug\net6.0\LibExo.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\obj\Debug\net6.0\LibExo.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\obj\Debug\net6.0\LibExo.dll
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\obj\Debug\net6.0\refint\LibExo.dll
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\obj\Debug\net6.0\LibExo.pdb
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\obj\Debug\net6.0\LibExo.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\obj\Debug\net6.0\ref\LibExo.dll
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\obj\Debug\net6.0\LibExo.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\natha\OneDrive\Bureau\ALL\Cours_BUT3\Qualite dev\LibExo\LibExo\obj\Debug\net6.0\LibExo.csproj.CopyComplete

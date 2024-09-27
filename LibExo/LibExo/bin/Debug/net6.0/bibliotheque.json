@@ -1,0 +1,20 @@
+[
+  {
+    "Auteur": "Antoine de Saint-Exupéry",
+    "Titre": "Le Petit Prince",
+    "NumeroDeReference": 1,
+    "NombreExemplairesDisponibles": 4
+  },
+  {
+    "Artiste": "Michael Jackson",
+    "Titre": "Thriller",
+    "NumeroDeReference": 2,
+    "NombreExemplairesDisponibles": 3
+  },
+  {
+    "Duree": "2h28",
+    "Titre": "Inception",
+    "NumeroDeReference": 3,
+    "NombreExemplairesDisponibles": 2
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gHbjTjvCcAdI+dwhjiSYb7gqFZkA+IWk3uhZVmF4pbVzLQ+tqk3/HseenClwK+43YU42b3qM/OoP8Zqn3qMCdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natha\\OneDrive\\Bureau\\ALL\\Cours_BUT3\\Qualite dev\\LibExo\\LibExo\\LibExo_bugeaud_nathan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
